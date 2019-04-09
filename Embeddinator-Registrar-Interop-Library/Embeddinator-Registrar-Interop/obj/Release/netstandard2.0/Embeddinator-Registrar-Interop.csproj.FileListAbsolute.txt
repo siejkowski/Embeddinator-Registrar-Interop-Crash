@@ -1,0 +1,11 @@
+/Users/kosi/DTC/HAL/Embeddinator-Registrar-Interop/Embeddinator-Registrar-Interop-Library/Embeddinator-Registrar-Interop/bin/Release/netstandard2.0/Embeddinator-Registrar-Interop.deps.json
+/Users/kosi/DTC/HAL/Embeddinator-Registrar-Interop/Embeddinator-Registrar-Interop-Library/Embeddinator-Registrar-Interop/bin/Release/netstandard2.0/Embeddinator-Registrar-Interop.dll
+/Users/kosi/DTC/HAL/Embeddinator-Registrar-Interop/Embeddinator-Registrar-Interop-Library/Embeddinator-Registrar-Interop/bin/Release/netstandard2.0/Embeddinator-Registrar-Interop.pdb
+/Users/kosi/DTC/HAL/Embeddinator-Registrar-Interop/Embeddinator-Registrar-Interop-Library/Embeddinator-Registrar-Interop/bin/Release/netstandard2.0/Xamarin.iOS.dll
+/Users/kosi/DTC/HAL/Embeddinator-Registrar-Interop/Embeddinator-Registrar-Interop-Library/Embeddinator-Registrar-Interop/bin/Release/netstandard2.0/Xamarin.iOS.pdb
+/Users/kosi/DTC/HAL/Embeddinator-Registrar-Interop/Embeddinator-Registrar-Interop-Library/Embeddinator-Registrar-Interop/obj/Release/netstandard2.0/Embeddinator-Registrar-Interop.csproj.CoreCompileInputs.cache
+/Users/kosi/DTC/HAL/Embeddinator-Registrar-Interop/Embeddinator-Registrar-Interop-Library/Embeddinator-Registrar-Interop/obj/Release/netstandard2.0/Embeddinator-Registrar-Interop.AssemblyInfoInputs.cache
+/Users/kosi/DTC/HAL/Embeddinator-Registrar-Interop/Embeddinator-Registrar-Interop-Library/Embeddinator-Registrar-Interop/obj/Release/netstandard2.0/Embeddinator-Registrar-Interop.AssemblyInfo.cs
+/Users/kosi/DTC/HAL/Embeddinator-Registrar-Interop/Embeddinator-Registrar-Interop-Library/Embeddinator-Registrar-Interop/obj/Release/netstandard2.0/Embeddinator-Registrar-Interop.csproj.CopyComplete
+/Users/kosi/DTC/HAL/Embeddinator-Registrar-Interop/Embeddinator-Registrar-Interop-Library/Embeddinator-Registrar-Interop/obj/Release/netstandard2.0/Embeddinator-Registrar-Interop.dll
+/Users/kosi/DTC/HAL/Embeddinator-Registrar-Interop/Embeddinator-Registrar-Interop-Library/Embeddinator-Registrar-Interop/obj/Release/netstandard2.0/Embeddinator-Registrar-Interop.pdb

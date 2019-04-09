@@ -1,0 +1,12 @@
+Function=xamarin_timezone_get_data
+	/Users/kosi/DTC/HAL/Embeddinator-Registrar-Interop/Embeddinator-Registrar-Interop-Library/Embeddinator-Registrar-Interop/bin/Release/netstandard2.0/output_objcgen/iPhoneSimulator/build-cache/32/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/kosi/DTC/HAL/Embeddinator-Registrar-Interop/Embeddinator-Registrar-Interop-Library/Embeddinator-Registrar-Interop/bin/Release/netstandard2.0/output_objcgen/iPhoneSimulator/build-cache/32/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/kosi/DTC/HAL/Embeddinator-Registrar-Interop/Embeddinator-Registrar-Interop-Library/Embeddinator-Registrar-Interop/bin/Release/netstandard2.0/output_objcgen/iPhoneSimulator/build-cache/32/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/kosi/DTC/HAL/Embeddinator-Registrar-Interop/Embeddinator-Registrar-Interop-Library/Embeddinator-Registrar-Interop/bin/Release/netstandard2.0/output_objcgen/iPhoneSimulator/build-cache/32/1-Link/Xamarin.iOS.dll
+Function=xamarin_dyn_objc_msgSend
+Function=xamarin_dyn_objc_msgSendSuper
+Function=xamarin_dyn_objc_msgSend_stret
+Function=xamarin_dyn_objc_msgSendSuper_stret

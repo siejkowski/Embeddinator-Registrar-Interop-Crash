@@ -1,0 +1,26 @@
+# Version: 12.2.1.12 (d15-9: 65ec520f)
+# [first argument, ignore] # --sim
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.2.1.12/lib/mtouch/mtouch.exe \
+	/Users/kosi/DTC/HAL/Embeddinator-Registrar-Interop/Embeddinator-Registrar-Interop-Library/Embeddinator-Registrar-Interop/bin/Release/netstandard2.0/output_objcgen/iPhoneSimulator/Embeddinator-Registrar-Interop \
+	'--abi=i386,x86_64' \
+	--sdkroot \
+	/Applications/Xcode101.app \
+	--targetver \
+	8.0 \
+	--dsym:false \
+	--msym:false \
+	--embeddinator \
+	/Users/kosi/DTC/HAL/Embeddinator-Registrar-Interop/Embeddinator-Registrar-Interop-Library/Embeddinator-Registrar-Interop/bin/Release/netstandard2.0/Embeddinator-Registrar-Interop.dll \
+	-r:/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	--sdk \
+	12.1 \
+	--linksdkonly \
+	--xml=output_objcgen/bindings.xml \
+	--registrar:static \
+	--cache \
+	/Users/kosi/DTC/HAL/Embeddinator-Registrar-Interop/Embeddinator-Registrar-Interop-Library/Embeddinator-Registrar-Interop/bin/Release/netstandard2.0/output_objcgen/iPhoneSimulator/build-cache \
+	--assembly-build-target=@all=framework=Embeddinator-Registrar-Interop.framework \
+	--target-framework \
+	'Xamarin.iOS,v1.0' \
+	'--gcc_flags=-force_load /Users/kosi/DTC/HAL/Embeddinator-Registrar-Interop/Embeddinator-Registrar-Interop-Library/Embeddinator-Registrar-Interop/bin/Release/netstandard2.0/output_objcgen/iPhoneSimulator/Embeddinator-Registrar-Interop.a' \
+	--marshal-managed-exceptions=throwobjectivecexception \
