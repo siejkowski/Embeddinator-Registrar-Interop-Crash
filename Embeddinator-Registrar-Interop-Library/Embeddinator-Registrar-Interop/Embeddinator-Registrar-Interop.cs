@@ -22,7 +22,7 @@ public class EmbeddinatorObject
     private RegistrarObject RegistrarObject = new RegistrarObject();
 
     [DllImport("/usr/lib/libobjc.dylib", EntryPoint = "objc_msgSend")]
-    private static extern void DidGetSample(IntPtr target, IntPtr selector, IntPtr Error);
+    private static extern void DidGetSample(IntPtr target, IntPtr selector, IntPtr RegistrarObject);
 
     public void GetSampleAsync()
     {
